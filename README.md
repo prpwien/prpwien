@@ -10,8 +10,7 @@ I am a Junior Full Stack Developer working on web applications specialised in Fr
 - 💬 CMS: WordPress, Forestry, NetlifyCMS
 - :crystal_ball: UI/UX: Mobile-first, Responsive Web,
 - 🌱 Currently learning: the MERN-Stack
-
-### My GitHub stats
+- [<img src="https://raw.githubusercontent.com/feathericons/feather/8263ca93c4b338dcfafed62321c27a88368ba7cc/icons/twitch.svg" alt="Twitch" height='20'/>](https://twitch.tv/nyiro/) I'm live streaming on [Twitch](https://twitch.tv/nyiro)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prpwien&show_icons=true)
 
