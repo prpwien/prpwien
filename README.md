@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Philipp!
 
-###### _Junior Full Stack Developer_
+###### _Junior Web Developer_
 
-I am a Junior Frontend Stack Developer working on web applications specialised in Front End JavaScript technologies such as React and GatsbyJS. Besides that, I’m always enthusiastic about new technologys and I am also educating myself about IT-Security & PEN-Testing.
+I am a Junior Web Developer working on web applications specialised in Front End JavaScript technologies such as React and GatsbyJS. Besides that, I’m always enthusiastic about new technologys and I am also educating myself about IT-Security & PEN-Testing.
 
 - :full_moon: Frontend: HTML, CSS, SASS, JavaScript
 - :new_moon: Backend: NodeJS, Express
