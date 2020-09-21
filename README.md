@@ -5,7 +5,7 @@
 I am a Junior Web Developer working on web applications specialised in Front End JavaScript technologies such as React and GatsbyJS. Besides that, I’m always enthusiastic about new technologys and I am also educating myself about IT-Security & PEN-Testing.
 
 - :full_moon: Frontend: HTML, CSS, SASS, JavaScript
-- :new_moon: Backend: NodeJS, Express
+- :new_moon: Backend: NodeJS, Express, PHP
 - :triangular_ruler: Frameworks: Webpack, React, GatsbyJS
 - 💬 CMS: WordPress, Forestry, NetlifyCMS
 - :crystal_ball: UI/UX: Mobile-first, Responsive Web,
