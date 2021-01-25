@@ -4,9 +4,10 @@ I am a Junior Developer working on web applications specialized in Front End Jav
 
 - :full_moon: Frontend: HTML, CSS, SASS, JavaScript
 - :new_moon: Backend: NodeJS, Express
-- :triangular_ruler: Frameworks: Webpack, React, Angular, GatsbyJS
+- :triangular_ruler: Frameworks: React, Angular
 - 💬 CMS: WordPress, Forestry, NetlifyCMS
-- :crystal_ball: UI/UX: Mobile-first, Responsive Web,
+- :crystal_ball: UI/UX: Mobile-first, Responsive Web
+- :page_facing_up: Other: Webpack, GatsbyJS
 - 🌱 Currently learning: C++, SQF and SQL
 - [<img src="https://raw.githubusercontent.com/feathericons/feather/8263ca93c4b338dcfafed62321c27a88368ba7cc/icons/twitch.svg" alt="Twitch" height='20'/>](https://twitch.tv/nyiro/) Sometimes I'm streaming on [Twitch](https://twitch.tv/nyiro)
 
