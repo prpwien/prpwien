@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Philipp.
 
-I am a Junior Developer working on web applications specialized in Front End JavaScript technologies such as React and GatsbyJS. Besides that, I’d call myself enthusiastic about new technologies, and interested in IT-Security. In my free time I develop scripts for [e-Monkeys](https://www.e-monkeys.com), an Arma 3 role-playing and gaming community.
+I am a Junior Developer working on web applications specialized in Front End JavaScript technologies such as React and GatsbyJS. Besides that, I’d call myself enthusiastic about new technologies, and interested in IT-Security. In my free time I develop scripts for [e-monkeys.com](https://www.e-monkeys.com), an Arma 3 role-playing and gaming community.
 
 - :full_moon: Frontend: HTML, CSS, SASS, JavaScript
 - :new_moon: Backend: NodeJS, Express
