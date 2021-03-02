@@ -4,11 +4,11 @@ I am a Junior Developer working on web applications specialized in Front End Jav
 
 - :full_moon: Frontend: HTML, CSS, SASS, JavaScript
 - :new_moon: Backend: NodeJS, Express
-- :triangular_ruler: Frameworks: React
+- :triangular_ruler: Frameworks: Angular
 - 💬 CMS: WordPress, Forestry, NetlifyCMS
 - :crystal_ball: UI/UX: Mobile-first, Responsive Web
 - :page_facing_up: Other: Webpack, GatsbyJS
-- 🌱 Currently learning: React
+- 🌱 Currently learning: Angular
 - <img src="https://raw.githubusercontent.com/feathericons/feather/8263ca93c4b338dcfafed62321c27a88368ba7cc/icons/twitch.svg" alt="Twitch" style="color:#6441a5;" height='20'/> Sometimes I stream on [Twitch](https://twitch.tv/nyiro)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=prpwien&show_icons=true)
