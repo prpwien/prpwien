@@ -4,7 +4,7 @@ I am a Junior Developer working on web applications specialized in Front End Jav
 
 - :full_moon: Frontend: HTML, CSS, SASS, JavaScript
 - :new_moon: Backend: NodeJS, Express
-- :triangular_ruler: Frameworks: Angular
+- :triangular_ruler: Frameworks: Angular, Vue.js
 - 💬 CMS: WordPress, Forestry, NetlifyCMS
 - :crystal_ball: UI/UX: Mobile-first, Responsive Web
 - :page_facing_up: Other: Webpack, GatsbyJS
